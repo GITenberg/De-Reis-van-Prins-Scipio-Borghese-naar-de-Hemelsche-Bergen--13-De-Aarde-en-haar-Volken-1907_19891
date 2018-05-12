@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8943'
     url: http://www.gutenberg.org/2009/agents/8943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19891#De-Reis-van-Prins-Scipio-Borghese-naar-de-Hemelsche-Bergen--13-De-Aarde-en-haar-Volken-1907
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-11-21'
 gutenberg_type: Text
